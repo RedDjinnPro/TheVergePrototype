@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e62d8d078be49cf8ad9ebe2efcaeb2, type: 3}
+  m_Name: Demo2D_SpeechManager
+  m_EditorClassIdentifier: 
+  scrollSubtitles: 0
+  scrollNarration: 0
+  textScrollSpeed: 50
+  textScrollCLip: {fileID: 0}
+  playScrollAudioEveryCharacter: 1
+  displayForever: 0
+  screenTimeFactor: 0.1
+  allowSpeechSkipping: 1
+  allowGameplaySpeechSkipping: 0
+  endScrollBeforeSkip: 0
+  searchAudioFiles: 0
+  autoNameSpeechFiles: 1
+  forceSubtitles: 1
+  translateAudio: 1
+  keepTextInBuffer: 0
+  relegateBackgroundSpeechAudio: 0
+  usePlayerRealName: 0
+  placeAudioInSubfolders: 0
+  separateLines: 0
+  separateLinePause: 0.1
+  lines: []
+  languages:
+  - 4f726967696e616c
+  ignoreOriginalText: 0
+  sfxDucking: 0
+  musicDucking: 0
+  lipSyncMode: 0
+  lipSyncOutput: 1
+  phonemes:
+  - 412f49
+  - 45
+  - 4f
+  - 55
+  - 4d2f422f50
+  - 432f442f472f4b2f4e2f522f532f54682f592f5a
+  - 4c
+  - 462f56
+  - 572f51
+  lipSyncSpeed: 1
+  sceneFiles: []
+  activeLine:
+    isPlayer: 0
+    lineID: 0
+    scene: 
+    owner: 
+    text: 
+    description: 
+    textType: 0
+    translationText: []
+    customAudioClip: {fileID: 0}
+    customLipsyncFile: {fileID: 0}
+    customTranslationAudioClips: []
+    customTranslationLipsyncFiles: []

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e900662dcca14340bf4d9be8df1f533, type: 3}
+  m_Name: DoCrafting
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400004}
+  isSkippable: 1
+  actionListType: 0
+  unfreezePauseMenus: 1
+  useParameters: 0
+  parameters: []
+--- !u!114 &11400004
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9faf4f790897b4bafe4dcc8d46f8b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  id: 0
+  category: 8
+  title: 496e76656e746f72793a204372616674696e67
+  description: 45697468657220636c65617273207468652063757272656e7420617272616e67656d656e74206f66206372616674696e6720696e6772656469656e74732c206f72206576616c7561746573207468656d20746f2063726561746520616e20617070726f70726961746520726573756c74202869662074686973206973206e6f7420646f6e65206175746f6d61746963616c6c79206279207468652072656369706520697473656c66292e
+  isDisplayed: 1
+  numSockets: 1
+  willWait: 0
+  defaultPauseTime: 0.1
+  isRunning: 0
+  lastResult:
+    resultAction: 0
+    skipAction: -10
+    skipActionActual: {fileID: 0}
+    linkedCutscene: {fileID: 0}
+    linkedAsset: {fileID: 0}
+  endAction: 0
+  skipAction: -1
+  skipActionActual: {fileID: 0}
+  linkedCutscene: {fileID: 0}
+  linkedAsset: {fileID: 0}
+  isEnabled: 1
+  isAssetFile: 1
+  isMarked: 0
+  isBreakPoint: 0
+  nodeRect:
+    x: 0
+    y: 0
+    width: 300
+    height: 60
+  nodeHeight: 0
+  craftingMethod: 1

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e62f4daee811464dbcf224bb5b367b4, type: 3}
+  m_Name: Demo2D_VariablesManager
+  m_EditorClassIdentifier: 
+  vars:
+  - label: 506c6179656420696e74726f
+    id: 0
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    popUps: []
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    isEditing: 1
+  - label: 506c6163656420776f726d
+    id: 1
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    popUps: []
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    isEditing: 0
+  - label: 4c756e63682066616c6c656e
+    id: 2
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    popUps: []
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    isEditing: 0
+  varPresets: []
+  updateRuntime: 1
